@@ -15,4 +15,7 @@
 1. Sdílené proměnné a komunikace mezi částmi programu.
 1. Běžně používané datové typy a třídy.
 1. Analýza výstupů programu (profiling)
-
+#Pozdrav program
+Tento program načte jméno uživatele a pozdraví ho.
+##Jak spustit
+python app.py
