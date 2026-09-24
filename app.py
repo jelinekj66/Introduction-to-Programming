@@ -1,1 +1,1 @@
-print("ahoj")
+jmeno = input("Zadejte své jméno: ")
